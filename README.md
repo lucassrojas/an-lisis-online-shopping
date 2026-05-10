@@ -46,8 +46,6 @@ Análisis de los datos de las ventas de un E-commerce durante el año 2019, con 
 
 CustomerID, Location (ciudades), Transaction_ID, Transaction_Date, Product_Category, Quantity y Avg_Price.
 
-La variable Gender (género) se mantuvo en el modelo, pero fue excluida de los reportes finales para priorizar medidas con mayor impacto en el análisis final.
-
 **Procedimiento:** El estudio se realizó mediante la ejecución de consultas SQL, utilizando **subconsultas y CTEs** para la creación de tablas temporales y segmentación de datos, junto con **funciones de ventana** para el cálculo de métricas y rankings de rendimiento. Luego, estas métricas fueron recreadas con **medidas DAX** en Power BI, herramienta donde se llevó a cabo el modelado final y el diseño de las visualizaciones interactivas.
 
 
